@@ -1,0 +1,16 @@
+Tue May 26 08:06:13 MSK 2020 : Сетевой сервер Apache Derby Network Server - 10.10.2.0 - (1582446) запущен и готов принимать соединения на порту 1527 на {3} 
+----------------------------------------------------------------
+Tue May 26 08:06:13 MSK 2020:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): экземпляр a816c00e-0172-4f5f-b23a-ffffbafdeff8
+в каталоге базы данных C:\Users\il\Desktop\test task Science\time sheet\TimeSheet\TimeSheetDataBase\TimeSheetDataBase sun.misc.Launcher$AppClassLoader@1d44bcfa 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Users\il\Desktop\test task Science\time sheet\TimeSheet\TimeSheetDataBase
+Запущен загрузчик классов базы данных - derby.database.classpath=''
+----------------------------------------------------------------
+Tue May 26 08:15:34 MSK 2020: Shutting down Derby engine
